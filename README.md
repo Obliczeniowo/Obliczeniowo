@@ -13,7 +13,7 @@ I'm a passionate **Front End Developer** specializing in the **Angular** framewo
 - **Mapping:** Mapbox
 - **DevOps:** Docker
 - **Languages:** TypeScript, JavaScript, C++, Python
-- **Back-End & Database:** NestJS, MySQL
+- **Back-End & Database:** NestJS, TypeOrm, Node, Express, MySQL
 - **Hardware:** Arduino Mega 2560
 
 ## 📦 My NPM Libraries
