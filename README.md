@@ -8,7 +8,7 @@ I'm a passionate **Front End Developer** specializing in the **Angular** framewo
 
 ## 🛠️ Tech Stack & Skills
 
-- **Frameworks:** Angular (upgraded from earliest versions up to Angular 20), WebComponents
+- **Frameworks:** Angular (upgraded from earliest versions up to Angular 20), WebComponents, StencilJS
 - **Component Libraries:** Angular Material, [ng-zorro](https://ng.ant.design), [`@obliczeniowo/elementary`](https://www.npmjs.com/package/@obliczeniowo/elementary), `@obliczeniowo/maps`
 - **Mapping:** Mapbox
 - **DevOps:** Docker
