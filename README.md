@@ -8,12 +8,12 @@ I'm a passionate **Front End Developer** specializing in the **Angular** framewo
 
 ## 🛠️ Tech Stack & Skills
 
-- **Frameworks:** Angular (upgraded from earliest versions up to Angular 20), WebComponents, StencilJS
+- **Frameworks:** Angular (upgraded from earliest versions up to Angular 20), WebComponents, StencilJS, React
 - **Component Libraries:** Angular Material, [ng-zorro](https://ng.ant.design), [`@obliczeniowo/elementary`](https://www.npmjs.com/package/@obliczeniowo/elementary), `@obliczeniowo/maps`
 - **Mapping:** Mapbox
 - **DevOps:** Docker
 - **Languages:** TypeScript, JavaScript, C++, Python
-- **Back-End & Database:** NestJS, TypeOrm, Node, Express, MySQL
+- **Back-End & Database:** NestJS, TypeOrm, Node, Express, MySQL, PHP 8
 - **Hardware:** Arduino Mega 2560
 
 ## 📦 My NPM Libraries
