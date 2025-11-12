@@ -119,5 +119,6 @@ One of my favorite side projects allowed me to control a lamp using an **Arduino
 > “Programming is my profession and my hobby—always looking for new challenges!”
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![WebComponents](https://img.shields.io/badge/WebComponents-29ABE2?style=for-the-badge&logo=webcomponents.org&logoColor=white)
